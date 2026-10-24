@@ -1,0 +1,73 @@
+Course,Category,Market_Demand,Competition,TechnoKraft_Offers,Competitors_Offer,Duration,Placement_Demand,AI_Trend,Recommendation
+Agentic AI Development,AI,Very High,Low,No,Yes,2 Months,High,Yes,Yes
+Agentic AI Development,AI,Very High,Medium,No,Yes,2 Months,High,Yes,Yes
+LLM Engineering,AI,Very High,Medium,No,Yes,3 Months,High,Yes,Yes
+LLM Engineering,AI,Very High,Medium,No,Yes,3 Months,High,Yes,Yes
+AI Automation with n8n,AI,Very High,Low,No,Yes,1 Month,High,Yes,Yes
+AI Automation with n8n,AI,Very High,Medium,No,Yes,1 Month,High,Yes,Yes
+Azure AI Foundry,Cloud/AI,High,Medium,No,Yes,2 Months,High,Yes,Yes
+Azure AI Foundry,Cloud/AI,High,Medium,No,Yes,2 Months,High,Yes,Yes
+MLOps,AI,High,Low,No,Yes,2 Months,High,Yes,Yes
+MLOps,AI,High,Medium,No,Yes,2 Months,High,Yes,Yes
+Data Engineering,Data,High,Medium,No,Yes,3 Months,High,Yes,Yes
+Data Engineering,Data,High,Medium,No,Yes,3 Months,High,Yes,Yes
+Cloud Computing,Cloud,High,High,Yes,Yes,3 Months,High,No,No
+Cloud Computing,Cloud,Medium,High,Yes,Yes,3 Months,High,No,No
+DevOps,Cloud,High,High,Yes,Yes,3 Months,High,No,No
+DevOps,Cloud,Medium,High,Yes,Yes,3 Months,High,No,No
+Software Testing,Testing,High,High,Yes,Yes,2 Months,Medium,No,No
+Software Testing,Testing,Medium,High,Yes,Yes,2 Months,Medium,No,No
+Cyber Security,Security,High,High,Yes,Yes,3 Months,High,No,No
+Cyber Security,Security,Medium,High,Yes,Yes,3 Months,High,No,No
+Java Full Stack,Development,High,High,Yes,Yes,6 Months,High,No,No
+Java Full Stack,Development,Medium,High,Yes,Yes,6 Months,High,No,No
+Python Full Stack,Development,High,High,Yes,Yes,6 Months,High,No,No
+Python Full Stack,Development,Medium,High,Yes,Yes,6 Months,High,No,No
+React.js,Development,High,High,Yes,Yes,2 Months,Medium,No,No
+React.js,Development,Medium,High,Yes,Yes,2 Months,Medium,No,No
+Angular,Development,Medium,Medium,Yes,Yes,2 Months,Medium,No,No
+Angular,Development,Medium,Medium,Yes,Yes,2 Months,Medium,No,No
+Power BI,Analytics,High,High,Yes,Yes,2 Months,High,No,No
+Power BI,Analytics,Medium,High,Yes,Yes,2 Months,High,No,No
+Business Analytics,Analytics,High,Medium,Yes,Yes,3 Months,High,No,No
+Business Analytics,Analytics,Medium,Medium,Yes,Yes,3 Months,High,No,No
+Prompt Engineering,AI,Very High,Low,No,Yes,2 Weeks,High,Yes,Yes
+Prompt Engineering,AI,Very High,Medium,No,Yes,2 Weeks,High,Yes,Yes
+GitHub Copilot,AI Tools,High,Low,No,Yes,2 Weeks,High,Yes,Yes
+GitHub Copilot,AI Tools,High,Medium,No,Yes,2 Weeks,High,Yes,Yes
+Cursor AI,AI Tools,High,Low,No,Yes,2 Weeks,High,Yes,Yes
+Cursor AI,AI Tools,High,Medium,No,Yes,2 Weeks,High,Yes,Yes
+AI for Digital Marketing,AI,High,Low,No,Yes,1 Month,Medium,Yes,Yes
+AI for Digital Marketing,AI,High,Medium,No,Yes,1 Month,Medium,Yes,Yes
+SAP FICO,ERP,Medium,High,Yes,Yes,3 Months,Medium,No,No
+SAP FICO,ERP,Medium,High,Yes,Yes,3 Months,Medium,No,No
+SAP MM,ERP,Medium,High,Yes,Yes,3 Months,Medium,No,No
+SAP MM,ERP,Medium,High,Yes,Yes,3 Months,Medium,No,No
+Docker,Cloud,High,High,Yes,Yes,1 Month,High,No,No
+Docker,Cloud,Medium,High,Yes,Yes,1 Month,High,No,No
+Kubernetes,Cloud,High,High,Yes,Yes,2 Months,High,No,No
+Kubernetes,Cloud,Medium,High,Yes,Yes,2 Months,High,No,No
+Linux,OS,Medium,High,Yes,Yes,1 Month,Medium,No,No
+Linux,OS,Medium,High,Yes,Yes,1 Month,Medium,No,No
+CCNA,Networking,Medium,High,Yes,Yes,2 Months,Medium,No,No
+CCNA,Networking,Medium,High,Yes,Yes,2 Months,Medium,No,No
+CCNP,Networking,Medium,Medium,Yes,Yes,3 Months,Medium,No,No
+CCNP,Networking,Medium,Medium,Yes,Yes,3 Months,Medium,No,No
+Ethical Hacking,Security,High,High,Yes,Yes,2 Months,High,No,No
+Ethical Hacking,Security,Medium,High,Yes,Yes,2 Months,High,No,No
+Penetration Testing,Security,High,Medium,Yes,Yes,2 Months,High,No,No
+Penetration Testing,Security,Medium,Medium,Yes,Yes,2 Months,High,No,No
+Tableau,Analytics,High,Medium,No,Yes,2 Months,High,No,Yes
+Tableau,Analytics,High,Medium,No,Yes,2 Months,High,No,Yes
+Snowflake,Data,High,Low,No,Yes,2 Months,High,Yes,Yes
+Snowflake,Data,High,Medium,No,Yes,2 Months,High,Yes,Yes
+Apache Spark,Data,High,Low,No,Yes,2 Months,High,Yes,Yes
+Apache Spark,Data,High,Medium,No,Yes,2 Months,High,Yes,Yes
+Kafka,Data,High,Low,No,Yes,2 Months,High,Yes,Yes
+Kafka,Data,High,Medium,No,Yes,2 Months,High,Yes,Yes
+Terraform,Cloud,High,Medium,No,Yes,1 Month,High,No,Yes
+Terraform,Cloud,High,Medium,No,Yes,1 Month,High,No,Yes
+Google Cloud Platform,Cloud,High,Medium,No,Yes,2 Months,High,No,Yes
+Google Cloud Platform,Cloud,High,Medium,No,Yes,2 Months,High,No,Yes
+Microsoft Copilot,AI Tools,Very High,Low,No,Yes,2 Weeks,High,Yes,Yes
+Microsoft Copilot,AI Tools,Very High,Medium,No,Yes,2 Weeks,High,Yes,Yes
